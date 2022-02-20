@@ -35,7 +35,7 @@ public class Main_2480 {
 			}
 		}
 		System.out.println(sum);
-		// 업데이트
+		// new update version 02/20
 
 	}
 
