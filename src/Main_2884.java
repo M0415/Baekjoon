@@ -20,7 +20,7 @@ public class Main_2884 {
 		}else if(M>=45){
 			M=(M-45);
 		}
-		System.out.printf("%d %d",H,M);
+		System.out.printf("%d %d",H,M); //½Ã°£ °ª
 
 	}
 
