@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main_8393 {
+public class Main_8393  { 
 
 	public static void main(String[] args) {
 		
@@ -10,7 +10,7 @@ public class Main_8393 {
 		for(int i=1; i<=N;i++) {
 			sum += i;
 		}
-		System.out.print(sum);
+		System.out.print(sum); //ÃÑ ÇÕ 
 
 	}
 
