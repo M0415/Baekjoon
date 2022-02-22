@@ -18,7 +18,7 @@ public class Main_9498 {
 		} else {
 			System.out.println("F");
 		}
-		
+		//wd
 	}
 
 }
