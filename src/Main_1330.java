@@ -16,6 +16,7 @@ public class Main_1330 {
 		} else {
 			System.out.println("==");
 		}
+		scanner.close();
 		
 		
 	}
