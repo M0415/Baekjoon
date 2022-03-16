@@ -17,6 +17,7 @@ public class Main_10950
 		for(int i=0; i<number;i++) {
 		System.out.printf("%d\n",arr[i]);
 		}
+		scanner.close();
 	}
 
 }
