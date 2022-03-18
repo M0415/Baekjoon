@@ -35,7 +35,7 @@ public class Main_2480 {
 			}
 		}
 		System.out.println(sum);
-		// new update version 02/20
+		scanner.close();
 
 	}
 
