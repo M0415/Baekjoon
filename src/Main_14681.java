@@ -18,7 +18,7 @@ public class Main_14681 {
 		} else if(((x>=-1000)&&(x<=-1)) && ((y>=1)&&(y<=1000))) {
 			System.out.println("2");
 		}
-		
+		scanner.close();
 	}
 
 }
