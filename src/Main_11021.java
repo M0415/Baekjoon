@@ -14,6 +14,7 @@ public class Main_11021 {
 		for(int i=0; i<T; i++) {
 		System.out.printf("Case #%d: %d\n",i+1,sum[i]);
 		}
+		scanner.close();
 
 	}
 
