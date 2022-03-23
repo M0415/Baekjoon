@@ -18,7 +18,7 @@ public class Main_2525 {
 			}
 		}
 		System.out.printf("%d %d",A,B);
-		
+		scanner.close();
 
 	}
 
