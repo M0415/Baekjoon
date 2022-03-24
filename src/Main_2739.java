@@ -9,6 +9,7 @@ public class Main_2739 {
 			int sum = (N*i);
 			System.out.printf("%d * %d = "+sum+"\n",N,i);
 		}
+		scanner.close();
 
 	}
 
