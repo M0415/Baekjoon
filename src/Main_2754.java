@@ -31,8 +31,7 @@ public class Main_2754 {
 		case "D-":
 			System.out.print("0.7"); break;
 		case "F":
-			System.out.print("0.0"); break;
-		
+			System.out.print("0.0"); break;		
 		}
 		scanner.close();
 
