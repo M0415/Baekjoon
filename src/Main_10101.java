@@ -18,6 +18,7 @@ public class Main_10101 {
 			System.out.print("Error");
 		}
 		scanner.close();//374
+		scanner.close();
 
 	}
 
