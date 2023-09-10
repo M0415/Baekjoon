@@ -17,7 +17,7 @@ public class Main_10101 {
 		} else {
 			System.out.print("Error");
 		}
-		scanner.close();//3
+		scanner.close();//37
 
 	}
 
